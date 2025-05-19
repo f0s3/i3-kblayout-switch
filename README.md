@@ -18,11 +18,10 @@
 
 ##### Install i3-kblayout-switch
 
-TODO: describe cloning process, clone the file into /bin/i3-kblayout-switch, something in the lines of:
+curl it to some place that's in your $PATH:
+`curl https://raw.githubusercontent.com/f0s3/i3-kblayout-switch/refs/heads/master/i3-kblayout-switch.ts /usr/bin/i3-kblayout-switch`
 
-`curl https://raw.githubusercontent.com/f0s3/i3-kblayout-switch/refs/heads/master/i3-kblayout-switch.ts /bin/i3-kblayout-switch`
-
-chmod it if needed
+chmod it if needed:
 
 `chmod +x /bin/i3-kblayout-switch`
 
