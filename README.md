@@ -14,8 +14,6 @@
 
 ##### Install dependencies
 
-TODO: add it to AUR
-
 `yay -S xkb-switch xkblayout-state`
 
 ##### Install i3-kblayout-switch
@@ -24,7 +22,7 @@ TODO: describe cloning process, clone the file into /bin/i3-kblayout-switch, som
 
 `curl https://raw.githubusercontent.com/f0s3/i3-kblayout-switch/refs/heads/master/i3-kblayout-switch.ts /bin/i3-kblayout-switch`
 
-TODO: chmod it if needed
+chmod it if needed
 
 `chmod +x /bin/i3-kblayout-switch`
 
